@@ -46,7 +46,7 @@ Contains 5,000+ labeled SMS messages
 Two classes: spam or ham
 
 -Tools & Libraries
-Python 🐍
+Python
 
 Pandas, NumPy
 
@@ -58,7 +58,7 @@ Matplotlib & Seaborn (for visualizations – optional)
 
 Jupyter Notebook
 
-📂 Project Structure
+Project Structure
 bash
 Copy
 Edit
