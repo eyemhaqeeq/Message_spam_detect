@@ -65,7 +65,7 @@ Edit
 ├── SMS_Spam_Detection_Enhanced.ipynb   # Main notebook
 ├── README.md                           # Project overview
 └── requirements.txt                    # Libraries used (optional)
-📈 What's Next?
+What's Next?
 Add TF-IDF and Word2Vec feature extraction
 
 Compare model performance across different features
