@@ -40,6 +40,7 @@ Text Classification with Multinomial Naive Bayes
 SMS Spam Collection Dataset
 
 UCI Machine Learning Repository
+https://archive.ics.uci.edu/dataset/228/sms+spam+collection
 
 Contains 5,000+ labeled SMS messages
 
